@@ -1,2 +1,2 @@
 # Python_skill
-My code in Python
+This is my coding experience in Python language.
