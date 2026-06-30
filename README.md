@@ -1,3 +1,3 @@
 # Python_skill
 This is my coding experience in Python language.
-I used many IDE to code this products such as VScode, Pycharm and Google collab.
+There experiences are from my university and AIO center. Besides I used AI for vibecoding some items that could be useful on Linux
